@@ -11,3 +11,5 @@ Computer Vision Study
 ## 사이드 프로젝트 진행
 
 21.07.11 Edge Detection + Smoothing (사진 > 그림) 프로젝트
+
+21.08.23 [Painterly Rendering with Curved Brush Strokes of Multiple Sizes](https://mrl.cs.nyu.edu/publications/painterly98/) 논문 구현
